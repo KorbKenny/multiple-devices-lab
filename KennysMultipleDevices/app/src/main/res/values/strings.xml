@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KennysMultipleDevices</string>
+    <string name="question">Want to know what will happen in three months?</string>
+    <string name="click">Click me:)</string>
+    <string name="answer">You will be an awesome Android developer! Just keep working hard!</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KennysMultipleDevices</string>
+    <string name="question">Vous voulez savoir ce qui se passera dans trois mois?</string>
+    <string name="click">Cliquez sur-moi:)</string>
+    <string name="answer">Vous serez un développeur Android génial! Il suffit de continuer à travailler dur!</string>
+</resources>
